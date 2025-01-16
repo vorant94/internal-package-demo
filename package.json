@@ -1,0 +1,9 @@
+{
+  "name": "internal-package-demo",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {}
+}
